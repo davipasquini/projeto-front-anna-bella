@@ -1,0 +1,1 @@
+Site fictício feito para treinar HTML5 e CSS3 básicos. Projeto de um curso de desenvolvimento web na Udemy.
